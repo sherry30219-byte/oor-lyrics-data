@@ -139,6 +139,13 @@
       "releaseDate": "2025-02-21",
       "cover": "albums/011-detox/cover.png",
       "songs": []
+    },
+    {
+      "slug": "012-others",
+      "title": "其他想學的歌",
+      "artist": "Various Artists",
+      "cover": "albums/012-others/cover.png",
+      "songs": []
     }
   ]
 }
