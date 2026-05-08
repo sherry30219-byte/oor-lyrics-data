@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "albums": [
+    {
+      "slug": "001-luxury-disease",
+      "title": "Luxury Disease",
+      "titleZh": "奢華病",
+      "artist": "ONE OK ROCK",
+      "year": 2022,
+      "cover": "albums/001-luxury-disease/cover.jpg",
+      "songs": [
+        {
+          "slug": "01-save-yourself",
+          "title": "Save Yourself",
+          "titleZh": "拯救自己",
+          "youtubeId": "9ScZ7ZQ4l0Q",
+          "duration": 240,
+          "file": "albums/001-luxury-disease/songs/01-save-yourself.json"
+        }
+      ]
+    },
+    {
+      "slug": "002-eye-of-the-storm",
+      "title": "Eye of the Storm",
+      "titleZh": "風暴之眼",
+      "artist": "ONE OK ROCK",
+      "year": 2019,
+      "cover": "albums/002-eye-of-the-storm/cover.jpg",
+      "songs": []
+    }
+  ]
+}
