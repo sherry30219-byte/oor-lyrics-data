@@ -1,0 +1,969 @@
+{
+  "slug": "03-unsizenia",
+  "title": "アンサイズニア",
+  "titleZh": "Answer is Near",
+  "youtubeId": "UlmhKXA77ro",
+  "offset": 0,
+  "lines": [
+    {
+      "time": 0.87,
+      "endTime": 5.29,
+      "jp": [
+        {
+          "t": "Whoa, oh, oh"
+        }
+      ],
+      "zh": "Whoa, oh, oh",
+      "kuso": "Whoa, oh, oh",
+      "romaji": "Whoa, oh, oh"
+    },
+    {
+      "time": 5.29,
+      "endTime": 10.76,
+      "jp": [
+        {
+          "t": "Whoa, oh, oh"
+        }
+      ],
+      "zh": "Whoa, oh, oh",
+      "kuso": "Whoa, oh, oh",
+      "romaji": "Whoa, oh, oh"
+    },
+    {
+      "time": 10.76,
+      "endTime": 23.54,
+      "jp": [
+        {
+          "t": "Whoa, oh, oh (ow!)"
+        }
+      ],
+      "zh": "Whoa, oh, oh (ow!)",
+      "kuso": "Whoa, oh, oh (ow!)",
+      "romaji": "Whoa, oh, oh (ow!)"
+    },
+    {
+      "time": 23.54,
+      "endTime": 29.5,
+      "jp": [
+        {
+          "t": "I think this way いく"
+        },
+        {
+          "t": "通",
+          "r": "とお"
+        },
+        {
+          "t": "りもある"
+        }
+      ],
+      "zh": "我覺得 思考的方向有好幾種",
+      "kuso": "I think this way 依庫偷哩摸阿嚕",
+      "romaji": "I think this way ikutoori mo aru"
+    },
+    {
+      "time": 29.5,
+      "endTime": 34.04,
+      "jp": [
+        {
+          "t": "その"
+        },
+        {
+          "t": "問",
+          "r": "と"
+        },
+        {
+          "t": "いの"
+        },
+        {
+          "t": "答",
+          "r": "こた"
+        },
+        {
+          "t": "えはもうただ"
+        }
+      ],
+      "zh": "那提問的答案 早就只是",
+      "kuso": "搜諾偷依諾摳他誒哇謀他達",
+      "romaji": "sono toi no kotae wa mou tada"
+    },
+    {
+      "time": 34.04,
+      "endTime": 38.93,
+      "jp": [
+        {
+          "t": "原理",
+          "r": "げんり"
+        },
+        {
+          "t": "や"
+        },
+        {
+          "t": "理論",
+          "r": "りろん"
+        },
+        {
+          "t": "に"
+        },
+        {
+          "t": "従",
+          "r": "したが"
+        },
+        {
+          "t": "って"
+        },
+        {
+          "t": "導",
+          "r": "みちび"
+        },
+        {
+          "t": "き"
+        },
+        {
+          "t": "出",
+          "r": "だ"
+        },
+        {
+          "t": "す"
+        }
+      ],
+      "zh": "順著原理與理論一路推導出來的",
+      "kuso": "給恩哩呀哩龍尼西他嘎貼米七逼ki達斯",
+      "romaji": "genri ya riron ni shitagatte michibikidasu"
+    },
+    {
+      "time": 38.93,
+      "endTime": 42.48,
+      "jp": [
+        {
+          "t": "何",
+          "r": "なん"
+        },
+        {
+          "t": "の"
+        },
+        {
+          "t": "変哲",
+          "r": "へんてつ"
+        },
+        {
+          "t": "もない answer"
+        }
+      ],
+      "zh": "再平凡不過的答案罷了",
+      "kuso": "囔諾嘿恩貼此摸奈 answer",
+      "romaji": "nan no hentetsu mo nai answer"
+    },
+    {
+      "time": 42.48,
+      "endTime": 43.78,
+      "jp": [
+        {
+          "t": "(You know that)"
+        }
+      ],
+      "zh": "(你心裡明白)",
+      "kuso": "(You know that)",
+      "romaji": "(You know that)"
+    },
+    {
+      "time": 43.78,
+      "endTime": 45.1,
+      "jp": [
+        {
+          "t": "Come on, come on"
+        }
+      ],
+      "zh": "來吧 來吧",
+      "kuso": "Come on, come on",
+      "romaji": "Come on, come on"
+    },
+    {
+      "time": 45.1,
+      "endTime": 47.13,
+      "jp": [
+        {
+          "t": "You hear me, everybody? Hello, hello"
+        }
+      ],
+      "zh": "都聽見了嗎?各位 哈囉 哈囉",
+      "kuso": "You hear me, everybody? Hello, hello",
+      "romaji": "You hear me, everybody? Hello, hello"
+    },
+    {
+      "time": 47.13,
+      "endTime": 52.23,
+      "jp": [
+        {
+          "t": "なあきっとこの"
+        },
+        {
+          "t": "世",
+          "r": "よ"
+        },
+        {
+          "t": "に"
+        },
+        {
+          "t": "正解",
+          "r": "せいかい"
+        },
+        {
+          "t": "もハズレも"
+        }
+      ],
+      "zh": "吶 這世上一定沒有所謂的正解或錯誤",
+      "kuso": "娜阿ki偷摳諾呦尼say咖伊摸哈茲累摸",
+      "romaji": "naa kitto kono yo ni seikai mo hazure mo"
+    },
+    {
+      "time": 52.23,
+      "endTime": 54.19,
+      "jp": [
+        {
+          "t": "本当",
+          "r": "ほんとう"
+        },
+        {
+          "t": "はないはずだから"
+        }
+      ],
+      "zh": "那種東西 本來就不該存在",
+      "kuso": "轟偷哇奈哈茲打卡啦",
+      "romaji": "hontou wa nai hazu dakara"
+    },
+    {
+      "time": 54.19,
+      "endTime": 55.7,
+      "jp": [
+        {
+          "t": "Wake up right now (right now)"
+        }
+      ],
+      "zh": "現在就醒過來吧(就是現在)",
+      "kuso": "Wake up right now (right now)",
+      "romaji": "Wake up right now (right now)"
+    },
+    {
+      "time": 55.7,
+      "endTime": 57.58,
+      "jp": [
+        {
+          "t": "Don't turn your back on me, come on, come on!"
+        }
+      ],
+      "zh": "別轉身背對我 來吧 來吧!",
+      "kuso": "Don't turn your back on me, come on, come on!",
+      "romaji": "Don't turn your back on me, come on, come on!"
+    },
+    {
+      "time": 57.58,
+      "endTime": 61.11,
+      "jp": [
+        {
+          "t": "Yeah, you stand here alive"
+        }
+      ],
+      "zh": "是啊 你正活著站在這裡",
+      "kuso": "Yeah, you stand here alive",
+      "romaji": "Yeah, you stand here alive"
+    },
+    {
+      "time": 61.11,
+      "endTime": 73.98,
+      "jp": [
+        {
+          "t": "The answer is inside of me"
+        }
+      ],
+      "zh": "答案就在我心裡",
+      "kuso": "The answer is inside of me",
+      "romaji": "The answer is inside of me"
+    },
+    {
+      "time": 73.98,
+      "endTime": 80.8,
+      "jp": [
+        {
+          "t": "今",
+          "r": "いま"
+        },
+        {
+          "t": "を"
+        },
+        {
+          "t": "生",
+          "r": "い"
+        },
+        {
+          "t": "きるコトは"
+        },
+        {
+          "t": "簡単",
+          "r": "かんたん"
+        },
+        {
+          "t": "じゃなくて"
+        }
+      ],
+      "zh": "活在當下 不是一件簡單的事",
+      "kuso": "依媽喔依ki嚕摳偷哇卡恩探加那哭貼",
+      "romaji": "ima wo ikiru koto wa kantan ja nakute"
+    },
+    {
+      "time": 80.8,
+      "endTime": 85.09,
+      "jp": [
+        {
+          "t": "ただ"
+        },
+        {
+          "t": "楽",
+          "r": "たの"
+        },
+        {
+          "t": "しけりゃいいってもんでもなくて"
+        }
+      ],
+      "zh": "也不是只要快樂就夠了",
+      "kuso": "他打他諾西key呀以以貼蒙day摸那哭貼",
+      "romaji": "tada tanoshikerya ii tte mon de mo nakute"
+    },
+    {
+      "time": 85.09,
+      "endTime": 87.99,
+      "jp": [
+        {
+          "t": "明日",
+          "r": "あした"
+        },
+        {
+          "t": "、"
+        },
+        {
+          "t": "明後日",
+          "r": "あさって"
+        },
+        {
+          "t": "の"
+        },
+        {
+          "t": "自分",
+          "r": "じぶん"
+        },
+        {
+          "t": "に"
+        }
+      ],
+      "zh": "對於明天、後天的自己",
+      "kuso": "阿西他 阿撒貼諾機不恩尼",
+      "romaji": "ashita, asatte no jibun ni"
+    },
+    {
+      "time": 87.99,
+      "endTime": 93.47,
+      "jp": [
+        {
+          "t": "何",
+          "r": "なに"
+        },
+        {
+          "t": "が"
+        },
+        {
+          "t": "起",
+          "r": "お"
+        },
+        {
+          "t": "ころうと"
+        },
+        {
+          "t": "責任",
+          "r": "せきにん"
+        },
+        {
+          "t": "を"
+        },
+        {
+          "t": "持",
+          "r": "も"
+        },
+        {
+          "t": "てるかどうかさ"
+        }
+      ],
+      "zh": "不論發生什麼 能不能扛起責任",
+      "kuso": "那尼嘎喔摳樓偷say key恩喔摸貼嚕卡兜卡沙",
+      "romaji": "nani ga okorou to sekinin wo moteru ka dou ka sa"
+    },
+    {
+      "time": 93.47,
+      "endTime": 95.78,
+      "jp": [
+        {
+          "t": "(Are you seeing it? You and me)"
+        }
+      ],
+      "zh": "(你看見了嗎?你和我)",
+      "kuso": "(Are you seeing it? You and me)",
+      "romaji": "(Are you seeing it? You and me)"
+    },
+    {
+      "time": 95.78,
+      "endTime": 97.47,
+      "jp": [
+        {
+          "t": "Come on, come on"
+        }
+      ],
+      "zh": "來吧 來吧",
+      "kuso": "Come on, come on",
+      "romaji": "Come on, come on"
+    },
+    {
+      "time": 97.47,
+      "endTime": 99.65,
+      "jp": [
+        {
+          "t": "You hear me, everybody? Hello, hello"
+        }
+      ],
+      "zh": "都聽見了嗎?各位 哈囉 哈囉",
+      "kuso": "You hear me, everybody? Hello, hello",
+      "romaji": "You hear me, everybody? Hello, hello"
+    },
+    {
+      "time": 99.65,
+      "endTime": 104.15,
+      "jp": [
+        {
+          "t": "なぁもっと "
+        },
+        {
+          "t": "言葉",
+          "r": "ことば"
+        },
+        {
+          "t": "や"
+        },
+        {
+          "t": "思",
+          "r": "おも"
+        },
+        {
+          "t": "い"
+        },
+        {
+          "t": "強",
+          "r": "つよ"
+        },
+        {
+          "t": "く"
+        }
+      ],
+      "zh": "吶 把更多話語和心意 更用力地",
+      "kuso": "娜阿摸偷摳偷巴呀喔謀依此呦哭",
+      "romaji": "naa motto kotoba ya omoi tsuyoku"
+    },
+    {
+      "time": 104.15,
+      "endTime": 106.63,
+      "jp": [
+        {
+          "t": "ここにため"
+        },
+        {
+          "t": "込",
+          "r": "こ"
+        },
+        {
+          "t": "んでいてさ"
+        }
+      ],
+      "zh": "累積在這裡吧",
+      "kuso": "摳摳尼他妹摳恩day依貼沙",
+      "romaji": "koko ni tamekonde ite sa"
+    },
+    {
+      "time": 106.63,
+      "endTime": 108.04,
+      "jp": [
+        {
+          "t": "Stand up right now (right now)"
+        }
+      ],
+      "zh": "站起來吧 就是現在(就是現在)",
+      "kuso": "Stand up right now (right now)",
+      "romaji": "Stand up right now (right now)"
+    },
+    {
+      "time": 108.04,
+      "endTime": 111.04,
+      "jp": [
+        {
+          "t": "遥",
+          "r": "はる"
+        },
+        {
+          "t": "か"
+        },
+        {
+          "t": "先",
+          "r": "さき"
+        },
+        {
+          "t": "をも"
+        },
+        {
+          "t": "描",
+          "r": "えが"
+        },
+        {
+          "t": "いて"
+        },
+        {
+          "t": "行",
+          "r": "い"
+        },
+        {
+          "t": "こう"
+        }
+      ],
+      "zh": "連那遙遠的前方也一起描繪出來吧",
+      "kuso": "哈嚕咖撒key喔摸誒嘎依貼依摳烏",
+      "romaji": "haruka saki wo mo egaite ikou"
+    },
+    {
+      "time": 111.04,
+      "endTime": 113.52,
+      "jp": [
+        {
+          "t": "Yeah, you stand here alive"
+        }
+      ],
+      "zh": "是啊 你正活著站在這裡",
+      "kuso": "Yeah, you stand here alive",
+      "romaji": "Yeah, you stand here alive"
+    },
+    {
+      "time": 113.52,
+      "endTime": 116.74,
+      "jp": [
+        {
+          "t": "The answer is inside of me"
+        }
+      ],
+      "zh": "答案就在我心裡",
+      "kuso": "The answer is inside of me",
+      "romaji": "The answer is inside of me"
+    },
+    {
+      "time": 116.74,
+      "endTime": 121.44,
+      "jp": [
+        {
+          "t": "僕",
+          "r": "ぼく"
+        },
+        {
+          "t": "の"
+        },
+        {
+          "t": "思",
+          "r": "おも"
+        },
+        {
+          "t": "う"
+        },
+        {
+          "t": "当",
+          "r": "あ"
+        },
+        {
+          "t": "たり"
+        },
+        {
+          "t": "前",
+          "r": "まえ"
+        },
+        {
+          "t": "は"
+        },
+        {
+          "t": "君",
+          "r": "きみ"
+        },
+        {
+          "t": "にとって"
+        },
+        {
+          "t": "当",
+          "r": "あ"
+        },
+        {
+          "t": "たり"
+        },
+        {
+          "t": "前",
+          "r": "まえ"
+        },
+        {
+          "t": "かな？"
+        }
+      ],
+      "zh": "我以為的理所當然 對你來說也是嗎?",
+      "kuso": "博庫諾喔謀烏阿他哩媽誒哇key咪尼偷貼阿他哩媽誒卡那?",
+      "romaji": "boku no omou atarimae wa kimi ni totte atarimae kana?"
+    },
+    {
+      "time": 121.44,
+      "endTime": 126.56,
+      "jp": [
+        {
+          "t": "君",
+          "r": "きみ"
+        },
+        {
+          "t": "の"
+        },
+        {
+          "t": "思",
+          "r": "おも"
+        },
+        {
+          "t": "う"
+        },
+        {
+          "t": "当",
+          "r": "あ"
+        },
+        {
+          "t": "たり"
+        },
+        {
+          "t": "前",
+          "r": "まえ"
+        },
+        {
+          "t": "は "
+        },
+        {
+          "t": "僕",
+          "r": "ぼく"
+        },
+        {
+          "t": "にとって"
+        },
+        {
+          "t": "当",
+          "r": "あ"
+        },
+        {
+          "t": "たり"
+        },
+        {
+          "t": "前",
+          "r": "まえ"
+        },
+        {
+          "t": "かな?"
+        }
+      ],
+      "zh": "你以為的理所當然 對我來說也是嗎?",
+      "kuso": "key咪諾喔謀烏阿他哩媽誒哇博庫尼偷貼阿他哩媽誒卡那?",
+      "romaji": "kimi no omou atarimae wa boku ni totte atarimae kana?"
+    },
+    {
+      "time": 126.56,
+      "endTime": 129.17,
+      "jp": [
+        {
+          "t": "どう"
+        },
+        {
+          "t": "思",
+          "r": "おも"
+        },
+        {
+          "t": "う？ さぁどうだろう？"
+        }
+      ],
+      "zh": "你怎麼想?來 究竟是怎麼回事呢?",
+      "kuso": "兜喔謀烏?薩阿兜達摟?",
+      "romaji": "dou omou? saa dou darou?"
+    },
+    {
+      "time": 129.17,
+      "endTime": 134.33,
+      "jp": [
+        {
+          "t": "これ"
+        },
+        {
+          "t": "自体",
+          "r": "じたい"
+        },
+        {
+          "t": "がもうナンセンスすぎるかな? "
+        },
+        {
+          "t": "答",
+          "r": "こた"
+        },
+        {
+          "t": "えはない!"
+        }
+      ],
+      "zh": "這問題本身就荒謬到不行了吧?根本沒答案!",
+      "kuso": "摳累機他伊嘎謀烏難森斯斯吉嚕卡那?摳他誒哇奈!",
+      "romaji": "kore jitai ga mou nansensu sugiru kana? kotae wa nai!"
+    },
+    {
+      "time": 134.33,
+      "endTime": 166.67,
+      "jp": [
+        {
+          "t": "じゃあなんだろう？ また"
+        },
+        {
+          "t": "僕",
+          "r": "ぼく"
+        },
+        {
+          "t": "は"
+        },
+        {
+          "t": "振",
+          "r": "ふ"
+        },
+        {
+          "t": "り"
+        },
+        {
+          "t": "出",
+          "r": "だ"
+        },
+        {
+          "t": "しに oh"
+        }
+      ],
+      "zh": "那到底是什麼?我又回到了原點 oh",
+      "kuso": "甲阿難達摟?媽他博庫哇夫哩打西尼 oh",
+      "romaji": "jaa nan darou? mata boku wa furidashi ni oh"
+    },
+    {
+      "time": 166.67,
+      "endTime": 168.37,
+      "jp": [
+        {
+          "t": "Hello, hello"
+        }
+      ],
+      "zh": "哈囉 哈囉",
+      "kuso": "Hello, hello",
+      "romaji": "Hello, hello"
+    },
+    {
+      "time": 168.37,
+      "endTime": 170.47,
+      "jp": [
+        {
+          "t": "この"
+        },
+        {
+          "t": "声",
+          "r": "こえ"
+        },
+        {
+          "t": "は"
+        },
+        {
+          "t": "届",
+          "r": "とど"
+        },
+        {
+          "t": "いてんだろ"
+        }
+      ],
+      "zh": "這聲音 傳到你那邊了吧",
+      "kuso": "摳諾摳誒哇偷兜依貼恩達摟",
+      "romaji": "kono koe wa todoiten daro"
+    },
+    {
+      "time": 170.47,
+      "endTime": 174.83,
+      "jp": [
+        {
+          "t": "まぁきっと この"
+        },
+        {
+          "t": "世",
+          "r": "よ"
+        },
+        {
+          "t": "に"
+        },
+        {
+          "t": "正解",
+          "r": "せいかい"
+        },
+        {
+          "t": "もハズレも"
+        }
+      ],
+      "zh": "想必啊 這世上的正解或錯誤",
+      "kuso": "媽阿key偷摳諾呦尼say咖伊摸哈茲累摸",
+      "romaji": "maa kitto kono yo ni seikai mo hazure mo"
+    },
+    {
+      "time": 174.83,
+      "endTime": 177.09,
+      "jp": [
+        {
+          "t": "間違",
+          "r": "まちが"
+        },
+        {
+          "t": "いなくないんだから"
+        }
+      ],
+      "zh": "絕對是不存在的",
+      "kuso": "媽七嘎依那哭那依恩達卡啦",
+      "romaji": "machigainaku nain dakara"
+    },
+    {
+      "time": 177.09,
+      "endTime": 181.32,
+      "jp": [
+        {
+          "t": "(Wake up right now, don't turn your back on me) wake up"
+        }
+      ],
+      "zh": "(現在就醒過來 別轉身背對我) 醒過來",
+      "kuso": "(Wake up right now, don't turn your back on me) wake up",
+      "romaji": "(Wake up right now, don't turn your back on me) wake up"
+    },
+    {
+      "time": 181.32,
+      "endTime": 183.05,
+      "jp": [
+        {
+          "t": "(Come on, come on) you still stand here alive"
+        }
+      ],
+      "zh": "(來吧 來吧) 你依然活著站在這裡",
+      "kuso": "(Come on, come on) you still stand here alive",
+      "romaji": "(Come on, come on) you still stand here alive"
+    },
+    {
+      "time": 183.05,
+      "endTime": 187.52,
+      "jp": [
+        {
+          "t": "死",
+          "r": "し"
+        },
+        {
+          "t": "ぬ"
+        },
+        {
+          "t": "間際",
+          "r": "まぎわ"
+        },
+        {
+          "t": "に"
+        },
+        {
+          "t": "悔",
+          "r": "く"
+        },
+        {
+          "t": "いは"
+        },
+        {
+          "t": "無",
+          "r": "な"
+        },
+        {
+          "t": "いと"
+        },
+        {
+          "t": "言",
+          "r": "い"
+        },
+        {
+          "t": "えるように"
+        },
+        {
+          "t": "生",
+          "r": "い"
+        },
+        {
+          "t": "きてたいだけ"
+        }
+      ],
+      "zh": "只想活成 臨終時能說出「我毫無遺憾」的樣子",
+      "kuso": "西努媽吉哇尼哭依哇那依偷依誒嚕呦烏尼依key貼他依達ke",
+      "romaji": "shinu magiwa ni kui wa nai to ieru you ni ikitetai dake"
+    },
+    {
+      "time": 187.52,
+      "endTime": 190.55,
+      "jp": [
+        {
+          "t": "(You stand here alive) you know the answer is"
+        }
+      ],
+      "zh": "(你活著站在這裡) 你知道答案",
+      "kuso": "(You stand here alive) you know the answer is",
+      "romaji": "(You stand here alive) you know the answer is"
+    },
+    {
+      "time": 190.55,
+      "endTime": 195.53,
+      "jp": [
+        {
+          "t": "(Wake up right now) inside of me"
+        }
+      ],
+      "zh": "(現在就醒過來) 就在我心裡",
+      "kuso": "(Wake up right now) inside of me",
+      "romaji": "(Wake up right now) inside of me"
+    },
+    {
+      "time": 195.53,
+      "endTime": 200.13,
+      "jp": [
+        {
+          "t": "Whoa, oh, oh"
+        }
+      ],
+      "zh": "Whoa, oh, oh",
+      "kuso": "Whoa, oh, oh",
+      "romaji": "Whoa, oh, oh"
+    },
+    {
+      "time": 200.13,
+      "endTime": 204.44,
+      "jp": [
+        {
+          "t": "Whoa, oh, oh"
+        }
+      ],
+      "zh": "Whoa, oh, oh",
+      "kuso": "Whoa, oh, oh",
+      "romaji": "Whoa, oh, oh"
+    },
+    {
+      "time": 204.44,
+      "endTime": 209.44,
+      "jp": [
+        {
+          "t": "You know the answer is inside of me"
+        }
+      ],
+      "zh": "你知道答案就在我心裡",
+      "kuso": "You know the answer is inside of me",
+      "romaji": "You know the answer is inside of me"
+    }
+  ]
+}

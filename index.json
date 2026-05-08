@@ -71,6 +71,14 @@
           "youtubeId": "SAHvDE9FFAE",
           "duration": 200,
           "file": "albums/004-niche-syndrome/songs/08-liar.json"
+        },
+        {
+          "slug": "09-wherever-you-are",
+          "title": "Wherever you are",
+          "titleZh": "無論你身在何處",
+          "youtubeId": "qs4Q4cQxyU4",
+          "duration": 283,
+          "file": "albums/004-niche-syndrome/songs/09-wherever-you-are.json"
         }
       ]
     },
@@ -82,7 +90,24 @@
       "year": 2011,
       "releaseDate": "2011-10-05",
       "cover": "albums/005-zankyou-reference/cover.png",
-      "songs": []
+      "songs": [
+        {
+          "slug": "03-unsizenia",
+          "title": "アンサイズニア",
+          "titleZh": "Answer is Near",
+          "youtubeId": "UlmhKXA77ro",
+          "duration": 210,
+          "file": "albums/005-zankyou-reference/songs/03-unsizenia.json"
+        },
+        {
+          "slug": "08-re-make",
+          "title": "Re:make",
+          "titleZh": "重塑",
+          "youtubeId": "67m9E6uDgxs",
+          "duration": 196,
+          "file": "albums/005-zankyou-reference/songs/08-re-make.json"
+        }
+      ]
     },
     {
       "slug": "006-jinsei-kakete-boku-wa",
@@ -91,7 +116,16 @@
       "year": 2013,
       "releaseDate": "2013-03-06",
       "cover": "albums/006-jinsei-kakete-boku-wa/cover.png",
-      "songs": []
+      "songs": [
+        {
+          "slug": "04-the-beginning",
+          "title": "The Beginning",
+          "titleZh": "開端",
+          "youtubeId": "Hh9yZWeTmVM",
+          "duration": 286,
+          "file": "albums/006-jinsei-kakete-boku-wa/songs/04-the-beginning.json"
+        }
+      ]
     },
     {
       "slug": "007-35xxxv",

@@ -1,0 +1,936 @@
+{
+  "slug": "09-wherever-you-are",
+  "title": "Wherever you are",
+  "titleZh": "無論你身在何處",
+  "youtubeId": "qs4Q4cQxyU4",
+  "offset": 0,
+  "lines": [
+    {
+      "time": 13.55,
+      "endTime": 19.04,
+      "jp": [
+        {
+          "t": "I'm telling you"
+        }
+      ],
+      "zh": "我想告訴你",
+      "kuso": "I'm telling you",
+      "romaji": "I'm telling you"
+    },
+    {
+      "time": 19.04,
+      "endTime": 22.6,
+      "jp": [
+        {
+          "t": "I softly whisper"
+        }
+      ],
+      "zh": "我輕聲低語",
+      "kuso": "I softly whisper",
+      "romaji": "I softly whisper"
+    },
+    {
+      "time": 22.6,
+      "endTime": 30.09,
+      "jp": [
+        {
+          "t": "Tonight, tonight"
+        }
+      ],
+      "zh": "今夜，就在今夜",
+      "kuso": "Tonight, tonight",
+      "romaji": "Tonight, tonight"
+    },
+    {
+      "time": 30.09,
+      "endTime": 35.22,
+      "jp": [
+        {
+          "t": "You are my angel"
+        }
+      ],
+      "zh": "你是我的天使",
+      "kuso": "You are my angel",
+      "romaji": "You are my angel"
+    },
+    {
+      "time": 35.22,
+      "endTime": 40.48,
+      "jp": [
+        {
+          "t": "愛",
+          "r": "あい"
+        },
+        {
+          "t": "してるよ"
+        }
+      ],
+      "zh": "我愛你",
+      "kuso": "阿伊西貼魯唷",
+      "romaji": "aishiteru yo"
+    },
+    {
+      "time": 40.48,
+      "endTime": 45.05,
+      "jp": [
+        {
+          "t": "二人",
+          "r": "ふたり"
+        },
+        {
+          "t": "はひとつに"
+        }
+      ],
+      "zh": "我倆合而為一",
+      "kuso": "夫他利哇 黑偷茲尼",
+      "romaji": "futari wa hitotsu ni"
+    },
+    {
+      "time": 45.05,
+      "endTime": 52.02,
+      "jp": [
+        {
+          "t": "Tonight, tonight"
+        }
+      ],
+      "zh": "今夜，就在今夜",
+      "kuso": "Tonight, tonight",
+      "romaji": "Tonight, tonight"
+    },
+    {
+      "time": 52.02,
+      "endTime": 55.21,
+      "jp": [
+        {
+          "t": "I just to say"
+        }
+      ],
+      "zh": "我只想對你說",
+      "kuso": "I just to say",
+      "romaji": "I just to say"
+    },
+    {
+      "time": 55.21,
+      "endTime": 57.92,
+      "jp": [
+        {
+          "t": "Wherever you are"
+        }
+      ],
+      "zh": "無論你身在何處",
+      "kuso": "Wherever you are",
+      "romaji": "Wherever you are"
+    },
+    {
+      "time": 57.92,
+      "endTime": 61.19,
+      "jp": [
+        {
+          "t": "I always make you smile"
+        }
+      ],
+      "zh": "我都會讓你綻放笑容",
+      "kuso": "I always make you smile",
+      "romaji": "I always make you smile"
+    },
+    {
+      "time": 61.19,
+      "endTime": 63.07,
+      "jp": [
+        {
+          "t": "Wherever you are"
+        }
+      ],
+      "zh": "無論你身在何處",
+      "kuso": "Wherever you are",
+      "romaji": "Wherever you are"
+    },
+    {
+      "time": 63.07,
+      "endTime": 66.15,
+      "jp": [
+        {
+          "t": "I'm always by your side"
+        }
+      ],
+      "zh": "我都永遠在你身旁",
+      "kuso": "I'm always by your side",
+      "romaji": "I'm always by your side"
+    },
+    {
+      "time": 66.15,
+      "endTime": 68.24,
+      "jp": [
+        {
+          "t": "Whatever you say"
+        }
+      ],
+      "zh": "無論你說什麼",
+      "kuso": "Whatever you say",
+      "romaji": "Whatever you say"
+    },
+    {
+      "time": 68.24,
+      "endTime": 72.92,
+      "jp": [
+        {
+          "t": "キミを"
+        },
+        {
+          "t": "想",
+          "r": "おも"
+        },
+        {
+          "t": "う "
+        },
+        {
+          "t": "気持",
+          "r": "きも"
+        },
+        {
+          "t": "ち"
+        }
+      ],
+      "zh": "這份思念你的心情",
+      "kuso": "凱咪喔歐謀 凱某七",
+      "romaji": "kimi wo omou kimochi"
+    },
+    {
+      "time": 72.92,
+      "endTime": 85.15,
+      "jp": [
+        {
+          "t": "I promise you forever right now"
+        }
+      ],
+      "zh": "此刻我向你承諾永遠",
+      "kuso": "I promise you forever right now",
+      "romaji": "I promise you forever right now"
+    },
+    {
+      "time": 85.15,
+      "endTime": 90.9,
+      "jp": [
+        {
+          "t": "I don't need a reason"
+        }
+      ],
+      "zh": "我不需要任何理由",
+      "kuso": "I don't need a reason",
+      "romaji": "I don't need a reason"
+    },
+    {
+      "time": 90.9,
+      "endTime": 95.08,
+      "jp": [
+        {
+          "t": "I just want you baby"
+        }
+      ],
+      "zh": "我只要你，寶貝",
+      "kuso": "I just want you baby",
+      "romaji": "I just want you baby"
+    },
+    {
+      "time": 95.08,
+      "endTime": 101.66,
+      "jp": [
+        {
+          "t": "Alright, alright"
+        }
+      ],
+      "zh": "好啦，好啦",
+      "kuso": "Alright, alright",
+      "romaji": "Alright, alright"
+    },
+    {
+      "time": 101.66,
+      "endTime": 106.78,
+      "jp": [
+        {
+          "t": "Day after day"
+        }
+      ],
+      "zh": "日復一日",
+      "kuso": "Day after day",
+      "romaji": "Day after day"
+    },
+    {
+      "time": 106.78,
+      "endTime": 112.24,
+      "jp": [
+        {
+          "t": "この"
+        },
+        {
+          "t": "先",
+          "r": "さき"
+        },
+        {
+          "t": "長",
+          "r": "なが"
+        },
+        {
+          "t": "いことずっと"
+        }
+      ],
+      "zh": "往後漫長的歲月裡",
+      "kuso": "口no薩key 那嘎伊口偷 茲偷",
+      "romaji": "kono saki nagai koto zutto"
+    },
+    {
+      "time": 112.24,
+      "endTime": 116.98,
+      "jp": [
+        {
+          "t": "どうか こんな"
+        },
+        {
+          "t": "僕",
+          "r": "ぼく"
+        },
+        {
+          "t": "とずっと"
+        }
+      ],
+      "zh": "拜託你 請一直陪在這樣的我身邊",
+      "kuso": "兜卡 寇恩那 玻枯偷 茲偷",
+      "romaji": "douka konna boku to zutto"
+    },
+    {
+      "time": 116.98,
+      "endTime": 119.22,
+      "jp": [
+        {
+          "t": "死",
+          "r": "し"
+        },
+        {
+          "t": "ぬまで"
+        }
+      ],
+      "zh": "直到死去那天",
+      "kuso": "西努媽爹",
+      "romaji": "shinu made"
+    },
+    {
+      "time": 119.22,
+      "endTime": 123.65,
+      "jp": [
+        {
+          "t": "Stay with me"
+        }
+      ],
+      "zh": "留在我身邊",
+      "kuso": "Stay with me",
+      "romaji": "Stay with me"
+    },
+    {
+      "time": 123.65,
+      "endTime": 129.76,
+      "jp": [
+        {
+          "t": "We carry on"
+        }
+      ],
+      "zh": "我們一起走下去",
+      "kuso": "We carry on",
+      "romaji": "We carry on"
+    },
+    {
+      "time": 129.76,
+      "endTime": 132.11,
+      "jp": [
+        {
+          "t": "Wherever you are"
+        }
+      ],
+      "zh": "無論你身在何處",
+      "kuso": "Wherever you are",
+      "romaji": "Wherever you are"
+    },
+    {
+      "time": 132.11,
+      "endTime": 135.26,
+      "jp": [
+        {
+          "t": "I always make you smile"
+        }
+      ],
+      "zh": "我都會讓你綻放笑容",
+      "kuso": "I always make you smile",
+      "romaji": "I always make you smile"
+    },
+    {
+      "time": 135.26,
+      "endTime": 137.55,
+      "jp": [
+        {
+          "t": "Wherever you are"
+        }
+      ],
+      "zh": "無論你身在何處",
+      "kuso": "Wherever you are",
+      "romaji": "Wherever you are"
+    },
+    {
+      "time": 137.55,
+      "endTime": 140.73,
+      "jp": [
+        {
+          "t": "I'm always by your side"
+        }
+      ],
+      "zh": "我都永遠在你身旁",
+      "kuso": "I'm always by your side",
+      "romaji": "I'm always by your side"
+    },
+    {
+      "time": 140.73,
+      "endTime": 143.18,
+      "jp": [
+        {
+          "t": "Whatever you say"
+        }
+      ],
+      "zh": "無論你說什麼",
+      "kuso": "Whatever you say",
+      "romaji": "Whatever you say"
+    },
+    {
+      "time": 143.18,
+      "endTime": 147.04,
+      "jp": [
+        {
+          "t": "キミを"
+        },
+        {
+          "t": "想",
+          "r": "おも"
+        },
+        {
+          "t": "う "
+        },
+        {
+          "t": "気持",
+          "r": "きも"
+        },
+        {
+          "t": "ち"
+        }
+      ],
+      "zh": "這份思念你的心情",
+      "kuso": "凱咪喔歐謀 凱某七",
+      "romaji": "kimi wo omou kimochi"
+    },
+    {
+      "time": 147.04,
+      "endTime": 152.09,
+      "jp": [
+        {
+          "t": "I promise you forever right now"
+        }
+      ],
+      "zh": "此刻我向你承諾永遠",
+      "kuso": "I promise you forever right now",
+      "romaji": "I promise you forever right now"
+    },
+    {
+      "time": 152.09,
+      "endTime": 153.72,
+      "jp": [
+        {
+          "t": "Wherever you are"
+        }
+      ],
+      "zh": "無論你身在何處",
+      "kuso": "Wherever you are",
+      "romaji": "Wherever you are"
+    },
+    {
+      "time": 153.72,
+      "endTime": 157.24,
+      "jp": [
+        {
+          "t": "I never make you cry"
+        }
+      ],
+      "zh": "我絕不讓你流淚",
+      "kuso": "I never make you cry",
+      "romaji": "I never make you cry"
+    },
+    {
+      "time": 157.24,
+      "endTime": 159.29,
+      "jp": [
+        {
+          "t": "Wherever you are"
+        }
+      ],
+      "zh": "無論你身在何處",
+      "kuso": "Wherever you are",
+      "romaji": "Wherever you are"
+    },
+    {
+      "time": 159.29,
+      "endTime": 163.15,
+      "jp": [
+        {
+          "t": "I never say goodbye"
+        }
+      ],
+      "zh": "我絕不說再見",
+      "kuso": "I never say goodbye",
+      "romaji": "I never say goodbye"
+    },
+    {
+      "time": 163.15,
+      "endTime": 165.03,
+      "jp": [
+        {
+          "t": "Whatever you say"
+        }
+      ],
+      "zh": "無論你說什麼",
+      "kuso": "Whatever you say",
+      "romaji": "Whatever you say"
+    },
+    {
+      "time": 165.03,
+      "endTime": 168.83,
+      "jp": [
+        {
+          "t": "キミを"
+        },
+        {
+          "t": "想",
+          "r": "おも"
+        },
+        {
+          "t": "う"
+        },
+        {
+          "t": "気持",
+          "r": "きも"
+        },
+        {
+          "t": "ち"
+        }
+      ],
+      "zh": "這份思念你的心情",
+      "kuso": "凱咪喔歐謀凱某七",
+      "romaji": "kimi wo omou kimochi"
+    },
+    {
+      "time": 168.83,
+      "endTime": 174.58,
+      "jp": [
+        {
+          "t": "I promise you forever right now"
+        }
+      ],
+      "zh": "此刻我向你承諾永遠",
+      "kuso": "I promise you forever right now",
+      "romaji": "I promise you forever right now"
+    },
+    {
+      "time": 174.58,
+      "endTime": 177.25,
+      "jp": [
+        {
+          "t": "僕",
+          "r": "ぼく"
+        },
+        {
+          "t": "らが"
+        },
+        {
+          "t": "出逢",
+          "r": "であ"
+        },
+        {
+          "t": "った"
+        },
+        {
+          "t": "日",
+          "r": "ひ"
+        },
+        {
+          "t": "は"
+        }
+      ],
+      "zh": "我們相遇的那一天",
+      "kuso": "玻枯啦嘎 爹阿塔 黑哇",
+      "romaji": "bokura ga deatta hi wa"
+    },
+    {
+      "time": 177.25,
+      "endTime": 180.05,
+      "jp": [
+        {
+          "t": "二人",
+          "r": "ふたり"
+        },
+        {
+          "t": "にとって"
+        }
+      ],
+      "zh": "對我們兩人來說",
+      "kuso": "夫他利尼 偷貼",
+      "romaji": "futari ni totte"
+    },
+    {
+      "time": 180.05,
+      "endTime": 185.67,
+      "jp": [
+        {
+          "t": "一番目",
+          "r": "いちばんめ"
+        },
+        {
+          "t": "の"
+        },
+        {
+          "t": "記念",
+          "r": "きねん"
+        },
+        {
+          "t": "すべき"
+        },
+        {
+          "t": "日",
+          "r": "ひ"
+        },
+        {
+          "t": "だね"
+        }
+      ],
+      "zh": "是第一個值得紀念的日子",
+      "kuso": "伊七班妹no key寧 思被key 黑搭內",
+      "romaji": "ichibanme no kinen subeki hi da ne"
+    },
+    {
+      "time": 185.67,
+      "endTime": 188.62,
+      "jp": [
+        {
+          "t": "そして"
+        },
+        {
+          "t": "今日",
+          "r": "きょう"
+        },
+        {
+          "t": "という"
+        },
+        {
+          "t": "日",
+          "r": "ひ"
+        },
+        {
+          "t": "は"
+        }
+      ],
+      "zh": "而今天這個日子",
+      "kuso": "搜西貼 克優偷伊烏 黑哇",
+      "romaji": "soshite kyou to iu hi wa"
+    },
+    {
+      "time": 188.62,
+      "endTime": 190.71,
+      "jp": [
+        {
+          "t": "二人",
+          "r": "ふたり"
+        },
+        {
+          "t": "にとって"
+        }
+      ],
+      "zh": "對我們兩人來說",
+      "kuso": "夫他利尼 偷貼",
+      "romaji": "futari ni totte"
+    },
+    {
+      "time": 190.71,
+      "endTime": 223.51,
+      "jp": [
+        {
+          "t": "二番目",
+          "r": "にばんめ"
+        },
+        {
+          "t": "の"
+        },
+        {
+          "t": "記念",
+          "r": "きねん"
+        },
+        {
+          "t": "すべき"
+        },
+        {
+          "t": "日",
+          "r": "ひ"
+        },
+        {
+          "t": "だね"
+        }
+      ],
+      "zh": "是第二個值得紀念的日子",
+      "kuso": "尼班妹no key寧 思被key 黑搭內",
+      "romaji": "nibanme no kinen subeki hi da ne"
+    },
+    {
+      "time": 223.51,
+      "endTime": 229.44,
+      "jp": [
+        {
+          "t": "心",
+          "r": "こころ"
+        },
+        {
+          "t": "から"
+        },
+        {
+          "t": "愛",
+          "r": "あい"
+        },
+        {
+          "t": "せる"
+        },
+        {
+          "t": "人",
+          "r": "ひと"
+        }
+      ],
+      "zh": "打從心底深愛的人",
+      "kuso": "口口咯卡啦 阿伊誰魯 黑偷",
+      "romaji": "kokoro kara aiseru hito"
+    },
+    {
+      "time": 229.44,
+      "endTime": 234.96,
+      "jp": [
+        {
+          "t": "心",
+          "r": "こころ"
+        },
+        {
+          "t": "から"
+        },
+        {
+          "t": "愛",
+          "r": "いと"
+        },
+        {
+          "t": "おしい"
+        },
+        {
+          "t": "人",
+          "r": "ひと"
+        }
+      ],
+      "zh": "打從心底珍愛的人",
+      "kuso": "口口咯卡啦 伊偷西一 黑偷",
+      "romaji": "kokoro kara itooshii hito"
+    },
+    {
+      "time": 234.96,
+      "endTime": 241.02,
+      "jp": [
+        {
+          "t": "この"
+        },
+        {
+          "t": "僕",
+          "r": "ぼく"
+        },
+        {
+          "t": "の"
+        },
+        {
+          "t": "愛",
+          "r": "あい"
+        },
+        {
+          "t": "の"
+        },
+        {
+          "t": "真",
+          "r": "ま"
+        },
+        {
+          "t": "ん"
+        },
+        {
+          "t": "中",
+          "r": "なか"
+        },
+        {
+          "t": "には"
+        }
+      ],
+      "zh": "在我這份愛的正中央",
+      "kuso": "口no玻枯no 阿伊no 媽恩那卡 尼哇",
+      "romaji": "kono boku no ai no mannaka ni wa"
+    },
+    {
+      "time": 241.02,
+      "endTime": 245.72,
+      "jp": [
+        {
+          "t": "いつも"
+        },
+        {
+          "t": "君",
+          "r": "きみ"
+        },
+        {
+          "t": "がいるから"
+        }
+      ],
+      "zh": "永遠都有你",
+      "kuso": "伊茲謀 key咪嘎 伊魯卡啦",
+      "romaji": "itsumo kimi ga iru kara"
+    },
+    {
+      "time": 245.72,
+      "endTime": 247.73,
+      "jp": [
+        {
+          "t": "Wherever you are"
+        }
+      ],
+      "zh": "無論你身在何處",
+      "kuso": "Wherever you are",
+      "romaji": "Wherever you are"
+    },
+    {
+      "time": 247.73,
+      "endTime": 251.51,
+      "jp": [
+        {
+          "t": "I always make you smile"
+        }
+      ],
+      "zh": "我都會讓你綻放笑容",
+      "kuso": "I always make you smile",
+      "romaji": "I always make you smile"
+    },
+    {
+      "time": 251.51,
+      "endTime": 253.57,
+      "jp": [
+        {
+          "t": "Wherever you are"
+        }
+      ],
+      "zh": "無論你身在何處",
+      "kuso": "Wherever you are",
+      "romaji": "Wherever you are"
+    },
+    {
+      "time": 253.57,
+      "endTime": 256.72,
+      "jp": [
+        {
+          "t": "I'm always by your side"
+        }
+      ],
+      "zh": "我都永遠在你身旁",
+      "kuso": "I'm always by your side",
+      "romaji": "I'm always by your side"
+    },
+    {
+      "time": 256.72,
+      "endTime": 259.03,
+      "jp": [
+        {
+          "t": "Whatever you say"
+        }
+      ],
+      "zh": "無論你說什麼",
+      "kuso": "Whatever you say",
+      "romaji": "Whatever you say"
+    },
+    {
+      "time": 259.03,
+      "endTime": 263.03,
+      "jp": [
+        {
+          "t": "君",
+          "r": "きみ"
+        },
+        {
+          "t": "を"
+        },
+        {
+          "t": "想",
+          "r": "おも"
+        },
+        {
+          "t": "う "
+        },
+        {
+          "t": "気持",
+          "r": "きも"
+        },
+        {
+          "t": "ち"
+        }
+      ],
+      "zh": "這份思念你的心情",
+      "kuso": "凱咪喔歐謀 凱某七",
+      "romaji": "kimi wo omou kimochi"
+    },
+    {
+      "time": 263.03,
+      "endTime": 267.79,
+      "jp": [
+        {
+          "t": "I promise you forever right now"
+        }
+      ],
+      "zh": "此刻我向你承諾永遠",
+      "kuso": "I promise you forever right now",
+      "romaji": "I promise you forever right now"
+    },
+    {
+      "time": 267.79,
+      "endTime": 273.35,
+      "jp": [
+        {
+          "t": "Wherever you are"
+        }
+      ],
+      "zh": "無論你身在何處",
+      "kuso": "Wherever you are",
+      "romaji": "Wherever you are"
+    },
+    {
+      "time": 273.35,
+      "endTime": 278.59,
+      "jp": [
+        {
+          "t": "Wherever you are"
+        }
+      ],
+      "zh": "無論你身在何處",
+      "kuso": "Wherever you are",
+      "romaji": "Wherever you are"
+    },
+    {
+      "time": 278.59,
+      "endTime": 283.59,
+      "jp": [
+        {
+          "t": "Wherever you are"
+        }
+      ],
+      "zh": "無論你身在何處",
+      "kuso": "Wherever you are",
+      "romaji": "Wherever you are"
+    }
+  ]
+}

@@ -65,7 +65,7 @@
 ⬜ Shake it down
 ⬜ じぶんROCK
 ✅ Liar
-⬜ Wherever you are
+✅ Wherever you are
 ⬜ Riot!!!
 ⬜ アダルトスーツ
 ⬜ 未完成交響曲
@@ -75,12 +75,12 @@
 # 残響リファレンス
 ⬜ Coda
 ⬜ LOST AND FOUND
-⬜ アンサイズニア
+✅ アンサイズニア
 ⬜ NO SCARED
 ⬜ C.h.a.o.s.m.y.t.h.
 ⬜ Mr.現代Speaker 
 ⬜ 世間知らずの宇宙飛行士
-⬜ Re:make
+✅ Re:make
 ⬜ Pierce
 ⬜ Let's take it someday
 ⬜ キミシダイ列車
@@ -89,7 +89,7 @@
 ⬜ Introduction 〜Where idiot should go〜
 ⬜ Ending Story??
 ⬜ ONION!
-⬜ The Beginning
+✅ The Beginning
 ⬜ Clock Strikes
 ⬜ Be the light
 ⬜ Nothing Helps

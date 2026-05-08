@@ -1,0 +1,840 @@
+{
+  "slug": "08-re-make",
+  "title": "Re:make",
+  "titleZh": "重塑",
+  "youtubeId": "67m9E6uDgxs",
+  "offset": 0,
+  "lines": [
+    {
+      "time": 0.52,
+      "endTime": 1.83,
+      "jp": [
+        {
+          "t": "You take me back"
+        }
+      ],
+      "zh": "你把我帶回原點",
+      "kuso": "You take me back",
+      "romaji": "You take me back"
+    },
+    {
+      "time": 1.83,
+      "endTime": 3.44,
+      "jp": [
+        {
+          "t": "And show me you're the only one"
+        }
+      ],
+      "zh": "讓我以為你就是唯一",
+      "kuso": "And show me you're the only one",
+      "romaji": "And show me you're the only one"
+    },
+    {
+      "time": 3.44,
+      "endTime": 5.25,
+      "jp": [
+        {
+          "t": "Reveal the way you got me"
+        }
+      ],
+      "zh": "揭穿你綁住我的方法",
+      "kuso": "Reveal the way you got me",
+      "romaji": "Reveal the way you got me"
+    },
+    {
+      "time": 5.25,
+      "endTime": 6.22,
+      "jp": [
+        {
+          "t": "I've got to run"
+        }
+      ],
+      "zh": "我必須逃離",
+      "kuso": "I've got to run",
+      "romaji": "I've got to run"
+    },
+    {
+      "time": 6.22,
+      "endTime": 7.35,
+      "jp": [
+        {
+          "t": "You're still alive"
+        }
+      ],
+      "zh": "你卻還活著",
+      "kuso": "You're still alive",
+      "romaji": "You're still alive"
+    },
+    {
+      "time": 7.35,
+      "endTime": 11.79,
+      "jp": [
+        {
+          "t": "I'm never gonna take your feeling which is complicated"
+        }
+      ],
+      "zh": "我絕不會去承擔你那糾結的情緒",
+      "kuso": "I'm never gonna take your feeling which is complicated",
+      "romaji": "I'm never gonna take your feeling which is complicated"
+    },
+    {
+      "time": 11.79,
+      "endTime": 14.63,
+      "jp": [
+        {
+          "t": "踏",
+          "r": "ふ"
+        },
+        {
+          "t": "まれてねじられここまで"
+        }
+      ],
+      "zh": "被踩被扭曲一路走到這裡",
+      "kuso": "福馬咧貼 內基拉咧 摳摳媽爹",
+      "romaji": "fumarete nejirare koko made"
+    },
+    {
+      "time": 14.63,
+      "endTime": 17.57,
+      "jp": [
+        {
+          "t": "歩",
+          "r": "あゆ"
+        },
+        {
+          "t": "んだこの"
+        },
+        {
+          "t": "道",
+          "r": "みち"
+        },
+        {
+          "t": "の"
+        },
+        {
+          "t": "先",
+          "r": "さき"
+        },
+        {
+          "t": "は"
+        }
+      ],
+      "zh": "這條走過的路前方",
+      "kuso": "阿雲達 摳諾 米七諾 撒奇哇",
+      "romaji": "ayunda kono michi no saki wa"
+    },
+    {
+      "time": 17.57,
+      "endTime": 21.95,
+      "jp": [
+        {
+          "t": "誰",
+          "r": "だれ"
+        },
+        {
+          "t": "にも"
+        },
+        {
+          "t": "踏",
+          "r": "ふ"
+        },
+        {
+          "t": "み"
+        },
+        {
+          "t": "込",
+          "r": "こ"
+        },
+        {
+          "t": "まれたくはない "
+        },
+        {
+          "t": "未開拓地領域",
+          "r": "みかいたくちりょういき"
+        }
+      ],
+      "zh": "不想讓任何人踏進來 那是未開拓的領域",
+      "kuso": "達咧逆某 福米摳馬咧他哭哇那衣 米開他哭七 溜衣奇",
+      "romaji": "dare ni mo fumikomaretaku wa nai mikaitakuchi ryouiki"
+    },
+    {
+      "time": 21.95,
+      "endTime": 24.7,
+      "jp": [
+        {
+          "t": "触",
+          "r": "ふ"
+        },
+        {
+          "t": "れられてしまえば Break me up"
+        }
+      ],
+      "zh": "要是被觸碰到 我就會崩潰",
+      "kuso": "福咧拉咧貼 西媽欸巴 Break me up",
+      "romaji": "furerarete shimaeba Break me up"
+    },
+    {
+      "time": 24.7,
+      "endTime": 27.43,
+      "jp": [
+        {
+          "t": "整",
+          "r": "ととの"
+        },
+        {
+          "t": "えりゃ Wait for a moment"
+        }
+      ],
+      "zh": "等我整理好 先等一下",
+      "kuso": "投投諾欸里呀 Wait for a moment",
+      "romaji": "totonoerya Wait for a moment"
+    },
+    {
+      "time": 27.43,
+      "endTime": 30.47,
+      "jp": [
+        {
+          "t": "ここらでさぁ Falling out yeah"
+        }
+      ],
+      "zh": "就在這裡啊 一切要崩盤了",
+      "kuso": "摳摳拉爹撒～ Falling out yeah",
+      "romaji": "kokora de saa Falling out yeah"
+    },
+    {
+      "time": 30.47,
+      "endTime": 34.08,
+      "jp": [
+        {
+          "t": "ギリギリで Runs out of time"
+        }
+      ],
+      "zh": "在最後關頭 時間已經用完",
+      "kuso": "給力給力爹 Runs out of time",
+      "romaji": "girigiri de Runs out of time"
+    },
+    {
+      "time": 34.08,
+      "endTime": 36.96,
+      "jp": [
+        {
+          "t": "You can feel it!"
+        }
+      ],
+      "zh": "你感覺到了吧！",
+      "kuso": "You can feel it!",
+      "romaji": "You can feel it!"
+    },
+    {
+      "time": 36.96,
+      "endTime": 39.56,
+      "jp": [
+        {
+          "t": "I can't believe in you"
+        }
+      ],
+      "zh": "我已經無法再相信你",
+      "kuso": "I can't believe in you",
+      "romaji": "I can't believe in you"
+    },
+    {
+      "time": 39.56,
+      "endTime": 42.41,
+      "jp": [
+        {
+          "t": "I'd see you another day another way"
+        }
+      ],
+      "zh": "改天用別的方式再見吧",
+      "kuso": "I'd see you another day another way",
+      "romaji": "I'd see you another day another way"
+    },
+    {
+      "time": 42.41,
+      "endTime": 45.17,
+      "jp": [
+        {
+          "t": "Nobody's standing near"
+        }
+      ],
+      "zh": "身邊沒有任何人",
+      "kuso": "Nobody's standing near",
+      "romaji": "Nobody's standing near"
+    },
+    {
+      "time": 45.17,
+      "endTime": 48.24,
+      "jp": [
+        {
+          "t": "There's something you can't see or feel baby"
+        }
+      ],
+      "zh": "有些東西你看不見也感受不到 baby",
+      "kuso": "There's something you can't see or feel baby",
+      "romaji": "There's something you can't see or feel baby"
+    },
+    {
+      "time": 48.24,
+      "endTime": 52.4,
+      "jp": [
+        {
+          "t": "自己",
+          "r": "じこ"
+        },
+        {
+          "t": "のエゴ"
+        },
+        {
+          "t": "虚",
+          "r": "むな"
+        },
+        {
+          "t": "しく"
+        },
+        {
+          "t": "行",
+          "r": "ゆ"
+        },
+        {
+          "t": "く"
+        },
+        {
+          "t": "末",
+          "r": "すえ"
+        }
+      ],
+      "zh": "自我的執念空虛地走向終點",
+      "kuso": "基摳諾 欸狗 母那西哭 油哭斯欸",
+      "romaji": "jiko no ego munashiku yuku sue"
+    },
+    {
+      "time": 52.4,
+      "endTime": 53.47,
+      "jp": [
+        {
+          "t": "Yeah, I'm sorry"
+        }
+      ],
+      "zh": "是啊 我很抱歉",
+      "kuso": "Yeah, I'm sorry",
+      "romaji": "Yeah, I'm sorry"
+    },
+    {
+      "time": 53.47,
+      "endTime": 57.75,
+      "jp": [
+        {
+          "t": "履",
+          "r": "は"
+        },
+        {
+          "t": "き"
+        },
+        {
+          "t": "違",
+          "r": "ちが"
+        },
+        {
+          "t": "えはなはだしくてもう dou"
+        }
+      ],
+      "zh": "誤解得太離譜 已經 dou",
+      "kuso": "哈奇七嘎欸 哈那哈打西哭貼 謀～ dou",
+      "romaji": "hakichigae hanahadashikute mou dou"
+    },
+    {
+      "time": 57.75,
+      "endTime": 61.42,
+      "jp": [
+        {
+          "t": "行",
+          "r": "い"
+        },
+        {
+          "t": "き"
+        },
+        {
+          "t": "違",
+          "r": "ちが"
+        },
+        {
+          "t": "い out there?"
+        }
+      ],
+      "zh": "全都錯過了 out there?",
+      "kuso": "衣奇七嘎衣 out there?",
+      "romaji": "ikichigai out there?"
+    },
+    {
+      "time": 61.42,
+      "endTime": 69.5,
+      "jp": [
+        {
+          "t": "out there no no no..."
+        }
+      ],
+      "zh": "out there no no no...",
+      "kuso": "out there no no no...",
+      "romaji": "out there no no no..."
+    },
+    {
+      "time": 69.5,
+      "endTime": 70.56,
+      "jp": [
+        {
+          "t": "(I'm breaking down!)"
+        }
+      ],
+      "zh": "(我快崩潰了！)",
+      "kuso": "(I'm breaking down!)",
+      "romaji": "(I'm breaking down!)"
+    },
+    {
+      "time": 70.56,
+      "endTime": 73.12,
+      "jp": [
+        {
+          "t": "I keep on trying to reach you with my broken legs"
+        }
+      ],
+      "zh": "我用這雙傷痕累累的腿 不停想走到你身邊",
+      "kuso": "I keep on trying to reach you with my broken legs",
+      "romaji": "I keep on trying to reach you with my broken legs"
+    },
+    {
+      "time": 73.12,
+      "endTime": 76.08,
+      "jp": [
+        {
+          "t": "How many times have you seen me when I fall"
+        }
+      ],
+      "zh": "你看過我跌倒過多少次",
+      "kuso": "How many times have you seen me when I fall",
+      "romaji": "How many times have you seen me when I fall"
+    },
+    {
+      "time": 76.08,
+      "endTime": 78.61,
+      "jp": [
+        {
+          "t": "But now I know you're not the only thing like before"
+        }
+      ],
+      "zh": "但現在我懂了 你已經不再是我心中唯一",
+      "kuso": "But now I know you're not the only thing like before",
+      "romaji": "But now I know you're not the only thing like before"
+    },
+    {
+      "time": 78.61,
+      "endTime": 81.56,
+      "jp": [
+        {
+          "t": "not the one I need to share"
+        }
+      ],
+      "zh": "也不是我想分享一切的人",
+      "kuso": "not the one I need to share",
+      "romaji": "not the one I need to share"
+    },
+    {
+      "time": 81.56,
+      "endTime": 84.49,
+      "jp": [
+        {
+          "t": "くだらない "
+        },
+        {
+          "t": "意味",
+          "r": "いみ"
+        },
+        {
+          "t": "もない くそ"
+        },
+        {
+          "t": "食",
+          "r": "く"
+        },
+        {
+          "t": "らえ"
+        }
+      ],
+      "zh": "無聊透頂 毫無意義 去他的吧",
+      "kuso": "哭打拉那衣 衣米某那衣 哭搜哭拉欸",
+      "romaji": "kudaranai imi mo nai kuso kurae"
+    },
+    {
+      "time": 84.49,
+      "endTime": 87.4,
+      "jp": [
+        {
+          "t": "それぐらい "
+        },
+        {
+          "t": "分",
+          "r": "わ"
+        },
+        {
+          "t": "かるよ バカじゃない"
+        }
+      ],
+      "zh": "這點事我懂啦 我又不是笨蛋",
+      "kuso": "搜咧古拉衣 哇咖嚕優 巴咖加那衣",
+      "romaji": "sore gurai wakaru yo baka ja nai"
+    },
+    {
+      "time": 87.4,
+      "endTime": 92.57,
+      "jp": [
+        {
+          "t": "I never give myself to you any more"
+        }
+      ],
+      "zh": "我再也不會把自己交給你",
+      "kuso": "I never give myself to you any more",
+      "romaji": "I never give myself to you any more"
+    },
+    {
+      "time": 92.57,
+      "endTime": 95.41,
+      "jp": [
+        {
+          "t": "I can't believe in you"
+        }
+      ],
+      "zh": "我已經無法再相信你",
+      "kuso": "I can't believe in you",
+      "romaji": "I can't believe in you"
+    },
+    {
+      "time": 95.41,
+      "endTime": 98.34,
+      "jp": [
+        {
+          "t": "I'd see you another day another way"
+        }
+      ],
+      "zh": "改天用別的方式再見吧",
+      "kuso": "I'd see you another day another way",
+      "romaji": "I'd see you another day another way"
+    },
+    {
+      "time": 98.34,
+      "endTime": 100.82,
+      "jp": [
+        {
+          "t": "Nobody's standing near"
+        }
+      ],
+      "zh": "身邊沒有任何人",
+      "kuso": "Nobody's standing near",
+      "romaji": "Nobody's standing near"
+    },
+    {
+      "time": 100.82,
+      "endTime": 103.92,
+      "jp": [
+        {
+          "t": "There's something you can't see or feel baby"
+        }
+      ],
+      "zh": "有些東西你看不見也感受不到 baby",
+      "kuso": "There's something you can't see or feel baby",
+      "romaji": "There's something you can't see or feel baby"
+    },
+    {
+      "time": 103.92,
+      "endTime": 109.29,
+      "jp": [
+        {
+          "t": "自己暗示",
+          "r": "じこあんじ"
+        },
+        {
+          "t": "虚",
+          "r": "むな"
+        },
+        {
+          "t": "しく "
+        },
+        {
+          "t": "気付",
+          "r": "きづ"
+        },
+        {
+          "t": "けば Oh when I'm me"
+        }
+      ],
+      "zh": "自我暗示落空 回過神來 Oh when I'm me",
+      "kuso": "基摳昂基 母那西哭 奇資克巴 Oh when I'm me",
+      "romaji": "jikoanji munashiku kizukeba Oh when I'm me"
+    },
+    {
+      "time": 109.29,
+      "endTime": 113.4,
+      "jp": [
+        {
+          "t": "履",
+          "r": "は"
+        },
+        {
+          "t": "き"
+        },
+        {
+          "t": "違",
+          "r": "ちが"
+        },
+        {
+          "t": "えはなはだしくてもう doubt"
+        }
+      ],
+      "zh": "誤解得太離譜 已經 doubt",
+      "kuso": "哈奇七嘎欸 哈那哈打西哭貼 謀～ doubt",
+      "romaji": "hakichigae hanahadashikute mou doubt"
+    },
+    {
+      "time": 113.4,
+      "endTime": 147.65,
+      "jp": [
+        {
+          "t": "行",
+          "r": "い"
+        },
+        {
+          "t": "き"
+        },
+        {
+          "t": "違",
+          "r": "ちが"
+        },
+        {
+          "t": "い out there?"
+        }
+      ],
+      "zh": "全都錯過了 out there?",
+      "kuso": "衣奇七嘎衣 out there?",
+      "romaji": "ikichigai out there?"
+    },
+    {
+      "time": 147.65,
+      "endTime": 150.36,
+      "jp": [
+        {
+          "t": "I can't believe in you"
+        }
+      ],
+      "zh": "我已經無法再相信你",
+      "kuso": "I can't believe in you",
+      "romaji": "I can't believe in you"
+    },
+    {
+      "time": 150.36,
+      "endTime": 153.26,
+      "jp": [
+        {
+          "t": "I'd see you another day another way"
+        }
+      ],
+      "zh": "改天用別的方式再見吧",
+      "kuso": "I'd see you another day another way",
+      "romaji": "I'd see you another day another way"
+    },
+    {
+      "time": 153.26,
+      "endTime": 156.05,
+      "jp": [
+        {
+          "t": "Nobody's standing near"
+        }
+      ],
+      "zh": "身邊沒有任何人",
+      "kuso": "Nobody's standing near",
+      "romaji": "Nobody's standing near"
+    },
+    {
+      "time": 156.05,
+      "endTime": 159.28,
+      "jp": [
+        {
+          "t": "There's something you can't see or feel baby"
+        }
+      ],
+      "zh": "有些東西你看不見也感受不到 baby",
+      "kuso": "There's something you can't see or feel baby",
+      "romaji": "There's something you can't see or feel baby"
+    },
+    {
+      "time": 159.28,
+      "endTime": 164.42,
+      "jp": [
+        {
+          "t": "自己暗示",
+          "r": "じこあんじ"
+        },
+        {
+          "t": "虚",
+          "r": "むな"
+        },
+        {
+          "t": "しく "
+        },
+        {
+          "t": "気付",
+          "r": "きづ"
+        },
+        {
+          "t": "けば Oh when I'm me"
+        }
+      ],
+      "zh": "自我暗示落空 回過神來 Oh when I'm me",
+      "kuso": "基摳昂基 母那西哭 奇資克巴 Oh when I'm me",
+      "romaji": "jikoanji munashiku kizukeba Oh when I'm me"
+    },
+    {
+      "time": 164.42,
+      "endTime": 168.43,
+      "jp": [
+        {
+          "t": "履",
+          "r": "は"
+        },
+        {
+          "t": "き"
+        },
+        {
+          "t": "違",
+          "r": "ちが"
+        },
+        {
+          "t": "えはなはだしくてもう doubt"
+        }
+      ],
+      "zh": "誤解得太離譜 已經 doubt",
+      "kuso": "哈奇七嘎欸 哈那哈打西哭貼 謀～ doubt",
+      "romaji": "hakichigae hanahadashikute mou doubt"
+    },
+    {
+      "time": 168.43,
+      "endTime": 170.04,
+      "jp": [
+        {
+          "t": "行",
+          "r": "い"
+        },
+        {
+          "t": "き"
+        },
+        {
+          "t": "違",
+          "r": "ちが"
+        },
+        {
+          "t": "い out there?"
+        }
+      ],
+      "zh": "全都錯過了 out there?",
+      "kuso": "衣奇七嘎衣 out there?",
+      "romaji": "ikichigai out there?"
+    },
+    {
+      "time": 170.04,
+      "endTime": 175.59,
+      "jp": [
+        {
+          "t": "I can't believe in you oh"
+        }
+      ],
+      "zh": "我已經無法再相信你 oh",
+      "kuso": "I can't believe in you oh",
+      "romaji": "I can't believe in you oh"
+    },
+    {
+      "time": 175.59,
+      "endTime": 181.53,
+      "jp": [
+        {
+          "t": "I can't believe in you wow"
+        }
+      ],
+      "zh": "我已經無法再相信你 wow",
+      "kuso": "I can't believe in you wow",
+      "romaji": "I can't believe in you wow"
+    },
+    {
+      "time": 181.53,
+      "endTime": 186.8,
+      "jp": [
+        {
+          "t": "羅列",
+          "r": "られつ"
+        },
+        {
+          "t": "した"
+        },
+        {
+          "t": "無数",
+          "r": "むすう"
+        },
+        {
+          "t": "の"
+        },
+        {
+          "t": "選択",
+          "r": "せんたく"
+        },
+        {
+          "t": "は No!!"
+        }
+      ],
+      "zh": "羅列出的無數選擇 全是 No!!",
+      "kuso": "拉咧資西他 母斯～諾 先他哭哇 No!!",
+      "romaji": "raretsu shita musuu no sentaku wa No!!"
+    },
+    {
+      "time": 186.8,
+      "endTime": 190.72,
+      "jp": [
+        {
+          "t": "勝",
+          "r": "か"
+        },
+        {
+          "t": "ち"
+        },
+        {
+          "t": "誇",
+          "r": "ほこ"
+        },
+        {
+          "t": "りバカばかりでじゃもう doubt"
+        }
+      ],
+      "zh": "全是自鳴得意的笨蛋 已經 doubt",
+      "kuso": "咖七后摳里 巴咖巴咖里爹加 謀～ doubt",
+      "romaji": "kachihokori baka bakari de ja mou doubt"
+    },
+    {
+      "time": 190.72,
+      "endTime": 195.72,
+      "jp": [
+        {
+          "t": "行",
+          "r": "い"
+        },
+        {
+          "t": "き"
+        },
+        {
+          "t": "違",
+          "r": "ちが"
+        },
+        {
+          "t": "い out there"
+        }
+      ],
+      "zh": "全都錯過了 out there",
+      "kuso": "衣奇七嘎衣 out there",
+      "romaji": "ikichigai out there"
+    }
+  ]
+}
