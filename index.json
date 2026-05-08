@@ -179,7 +179,17 @@
       "title": "其他想學的歌",
       "artist": "Various Artists",
       "cover": "albums/012-others/cover.png",
-      "songs": []
+      "songs": [
+        {
+          "slug": "01-kirari-fujii-kaze",
+          "title": "きらり",
+          "titleZh": "Kirari",
+          "artist": "藤井風",
+          "youtubeId": "TcLLpZBWsck",
+          "duration": 226,
+          "file": "albums/012-others/songs/01-kirari-fujii-kaze.json"
+        }
+      ]
     }
   ]
 }
