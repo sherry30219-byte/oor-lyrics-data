@@ -1,0 +1,700 @@
+{
+  "slug": "08-liar",
+  "title": "Liar",
+  "titleZh": "騙子",
+  "youtubeId": "SAHvDE9FFAE",
+  "offset": 0,
+  "lines": [
+    {
+      "time": 22.89,
+      "endTime": 25.99,
+      "jp": [
+        {
+          "t": "What do you want from me?"
+        }
+      ],
+      "zh": "你到底想從我身上得到什麼？",
+      "kuso": "What do you want from me?",
+      "romaji": "What do you want from me?"
+    },
+    {
+      "time": 25.99,
+      "endTime": 27.63,
+      "jp": [
+        {
+          "t": "Just let me breathe a little"
+        }
+      ],
+      "zh": "讓我稍微喘口氣吧",
+      "kuso": "Just let me breathe a little",
+      "romaji": "Just let me breathe a little"
+    },
+    {
+      "time": 27.63,
+      "endTime": 30.3,
+      "jp": [
+        {
+          "t": "What do you want to see?"
+        }
+      ],
+      "zh": "你到底想看見什麼？",
+      "kuso": "What do you want to see?",
+      "romaji": "What do you want to see?"
+    },
+    {
+      "time": 30.3,
+      "endTime": 32.26,
+      "jp": [
+        {
+          "t": "目",
+          "r": "め"
+        },
+        {
+          "t": "に"
+        },
+        {
+          "t": "見",
+          "r": "み"
+        },
+        {
+          "t": "えるモノ?"
+        }
+      ],
+      "zh": "是看得見的東西嗎？",
+      "kuso": "妹尼 米耶魯摸no?",
+      "romaji": "me ni mieru mono?"
+    },
+    {
+      "time": 32.26,
+      "endTime": 35.29,
+      "jp": [
+        {
+          "t": "What do you want to believe?"
+        }
+      ],
+      "zh": "你到底想相信什麼？",
+      "kuso": "What do you want to believe?",
+      "romaji": "What do you want to believe?"
+    },
+    {
+      "time": 35.29,
+      "endTime": 37.07,
+      "jp": [
+        {
+          "t": "Still nothing can be settled"
+        }
+      ],
+      "zh": "到現在依然什麼都無法定論",
+      "kuso": "Still nothing can be settled",
+      "romaji": "Still nothing can be settled"
+    },
+    {
+      "time": 37.07,
+      "endTime": 38.59,
+      "jp": [
+        {
+          "t": "Hold on your words"
+        }
+      ],
+      "zh": "先別急著把話說死",
+      "kuso": "Hold on your words",
+      "romaji": "Hold on your words"
+    },
+    {
+      "time": 38.59,
+      "endTime": 41.54,
+      "jp": [
+        {
+          "t": "You say it's no good"
+        }
+      ],
+      "zh": "你卻說這樣不行",
+      "kuso": "You say it's no good",
+      "romaji": "You say it's no good"
+    },
+    {
+      "time": 41.54,
+      "endTime": 44.3,
+      "jp": [
+        {
+          "t": "何",
+          "r": "なに"
+        },
+        {
+          "t": "を"
+        },
+        {
+          "t": "求",
+          "r": "もと"
+        },
+        {
+          "t": "め"
+        }
+      ],
+      "zh": "你在追求什麼",
+      "kuso": "那尼喔 摸斗妹",
+      "romaji": "nani o motome"
+    },
+    {
+      "time": 44.3,
+      "endTime": 49.21,
+      "jp": [
+        {
+          "t": "そして"
+        },
+        {
+          "t": "何",
+          "r": "なに"
+        },
+        {
+          "t": "を"
+        },
+        {
+          "t": "受",
+          "r": "う"
+        },
+        {
+          "t": "け"
+        },
+        {
+          "t": "入",
+          "r": "い"
+        },
+        {
+          "t": "れる?"
+        }
+      ],
+      "zh": "又願意接受什麼？",
+      "kuso": "搜西貼 那尼喔 烏kei伊雷魯?",
+      "romaji": "soshite nani o ukeireru?"
+    },
+    {
+      "time": 49.21,
+      "endTime": 52.39,
+      "jp": [
+        {
+          "t": "2つに1つ!"
+        }
+      ],
+      "zh": "只能二選一！",
+      "kuso": "夫他此尼 嘻斗此!",
+      "romaji": "futatsu ni hitotsu!"
+    },
+    {
+      "time": 52.39,
+      "endTime": 59.51,
+      "jp": [
+        {
+          "t": "僕",
+          "r": "ぼく"
+        },
+        {
+          "t": "にはまだそれが I don't know (Don't know)"
+        }
+      ],
+      "zh": "對我來說，那答案我還不懂（不懂）",
+      "kuso": "玻哭尼哇 媽搭搜雷嘎 I don't know (Don't know)",
+      "romaji": "boku ni wa mada sore ga I don't know (Don't know)"
+    },
+    {
+      "time": 59.51,
+      "endTime": 64.22,
+      "jp": [
+        {
+          "t": "となりで"
+        },
+        {
+          "t": "笑",
+          "r": "わら"
+        },
+        {
+          "t": "う"
+        },
+        {
+          "t": "君",
+          "r": "きみ"
+        },
+        {
+          "t": "は"
+        }
+      ],
+      "zh": "而你就在我身旁笑著",
+      "kuso": "斗那li day 哇啦烏 key米哇",
+      "romaji": "tonari de warau kimi wa"
+    },
+    {
+      "time": 64.22,
+      "endTime": 68.6,
+      "jp": [
+        {
+          "t": "Hey liar, hey liar"
+        }
+      ],
+      "zh": "嘿，騙子，嘿，騙子",
+      "kuso": "Hey liar, hey liar",
+      "romaji": "Hey liar, hey liar"
+    },
+    {
+      "time": 68.6,
+      "endTime": 73.03,
+      "jp": [
+        {
+          "t": "What do you think of living without me?"
+        }
+      ],
+      "zh": "沒有我的日子，你覺得怎樣？",
+      "kuso": "What do you think of living without me?",
+      "romaji": "What do you think of living without me?"
+    },
+    {
+      "time": 73.03,
+      "endTime": 77.95,
+      "jp": [
+        {
+          "t": "Hey liar, hey liar"
+        }
+      ],
+      "zh": "嘿，騙子，嘿，騙子",
+      "kuso": "Hey liar, hey liar",
+      "romaji": "Hey liar, hey liar"
+    },
+    {
+      "time": 77.95,
+      "endTime": 83.0,
+      "jp": [
+        {
+          "t": "何",
+          "r": "なに"
+        },
+        {
+          "t": "がウソでどれが"
+        },
+        {
+          "t": "真",
+          "r": "しん"
+        },
+        {
+          "t": "實",
+          "r": "じつ"
+        },
+        {
+          "t": "?"
+        }
+      ],
+      "zh": "哪個是謊言，哪個才是真實？",
+      "kuso": "那尼嘎 烏搜day 斗雷嘎 新基此?",
+      "romaji": "nani ga uso de dore ga shinjitsu?"
+    },
+    {
+      "time": 83.0,
+      "endTime": 86.02,
+      "jp": [
+        {
+          "t": "Must be a dream I see"
+        }
+      ],
+      "zh": "眼前這一切一定像場夢",
+      "kuso": "Must be a dream I see",
+      "romaji": "Must be a dream I see"
+    },
+    {
+      "time": 86.02,
+      "endTime": 87.72,
+      "jp": [
+        {
+          "t": "まるでデジャヴのよう"
+        }
+      ],
+      "zh": "就像似曾相識的既視感",
+      "kuso": "媽魯day day加不no優~",
+      "romaji": "maru de dejavu no you"
+    },
+    {
+      "time": 87.72,
+      "endTime": 92.45,
+      "jp": [
+        {
+          "t": "Trying so hard to know inside of you"
+        }
+      ],
+      "zh": "拼命想看懂你的內心",
+      "kuso": "Trying so hard to know inside of you",
+      "romaji": "Trying so hard to know inside of you"
+    },
+    {
+      "time": 92.45,
+      "endTime": 98.22,
+      "jp": [
+        {
+          "t": "It's telling your eyes to feel この"
+        },
+        {
+          "t": "思",
+          "r": "おも"
+        },
+        {
+          "t": "いが"
+        }
+      ],
+      "zh": "它像是在讓你的雙眼感受這份心意",
+      "kuso": "It's telling your eyes to feel 扣no歐摸伊嘎",
+      "romaji": "It's telling your eyes to feel kono omoi ga"
+    },
+    {
+      "time": 98.22,
+      "endTime": 103.16,
+      "jp": [
+        {
+          "t": "屆",
+          "r": "とど"
+        },
+        {
+          "t": "くようにと"
+        },
+        {
+          "t": "願",
+          "r": "ねが"
+        },
+        {
+          "t": "うけど"
+        }
+      ],
+      "zh": "我祈求它能傳達給你",
+      "kuso": "斗斗哭 優~尼斗 內嘎烏kei斗",
+      "romaji": "todoku you ni to negau kedo"
+    },
+    {
+      "time": 103.16,
+      "endTime": 110.8,
+      "jp": [
+        {
+          "t": "理",
+          "r": "り"
+        },
+        {
+          "t": "想",
+          "r": "そう"
+        },
+        {
+          "t": "とはウラハラ So cold (So cold)"
+        }
+      ],
+      "zh": "卻和理想背道而馳，冷得刺骨（好冷）",
+      "kuso": "li搜~斗哇 烏啦哈啦 So cold (So cold)",
+      "romaji": "risou to wa urahara So cold (So cold)"
+    },
+    {
+      "time": 110.8,
+      "endTime": 114.99,
+      "jp": [
+        {
+          "t": "となりで"
+        },
+        {
+          "t": "微",
+          "r": "ほほ"
+        },
+        {
+          "t": "笑",
+          "r": "え"
+        },
+        {
+          "t": "む"
+        },
+        {
+          "t": "君",
+          "r": "きみ"
+        }
+      ],
+      "zh": "而你就在我身旁微笑著",
+      "kuso": "斗那li day 吼吼耶母 key米",
+      "romaji": "tonari de hohoemu kimi"
+    },
+    {
+      "time": 114.99,
+      "endTime": 119.65,
+      "jp": [
+        {
+          "t": "Hey liar, hey liar"
+        }
+      ],
+      "zh": "嘿，騙子，嘿，騙子",
+      "kuso": "Hey liar, hey liar",
+      "romaji": "Hey liar, hey liar"
+    },
+    {
+      "time": 119.65,
+      "endTime": 124.18,
+      "jp": [
+        {
+          "t": "あれもこれもウソじゃもう"
+        }
+      ],
+      "zh": "如果這也是假、那也是假，我已經",
+      "kuso": "阿雷摸 扣雷摸 烏搜加 摸~",
+      "romaji": "are mo kore mo uso ja mou"
+    },
+    {
+      "time": 124.18,
+      "endTime": 128.89,
+      "jp": [
+        {
+          "t": "I'm tired, so tired"
+        }
+      ],
+      "zh": "累了，真的好累",
+      "kuso": "I'm tired, so tired",
+      "romaji": "I'm tired, so tired"
+    },
+    {
+      "time": 128.89,
+      "endTime": 135.05,
+      "jp": [
+        {
+          "t": "What do you think of living without me? Ooh, oh, oh"
+        }
+      ],
+      "zh": "沒有我的日子，你覺得怎樣？喔，喔，喔",
+      "kuso": "What do you think of living without me? Ooh, oh, oh",
+      "romaji": "What do you think of living without me? Ooh, oh, oh"
+    },
+    {
+      "time": 135.05,
+      "endTime": 137.24,
+      "jp": [
+        {
+          "t": "(There's nothing left to bleed)"
+        }
+      ],
+      "zh": "（已經沒有什麼能再流血了）",
+      "kuso": "(There's nothing left to bleed)",
+      "romaji": "(There's nothing left to bleed)"
+    },
+    {
+      "time": 137.24,
+      "endTime": 139.54,
+      "jp": [
+        {
+          "t": "(There's nothing left to bleed)"
+        }
+      ],
+      "zh": "（已經沒有什麼能再流血了）",
+      "kuso": "(There's nothing left to bleed)",
+      "romaji": "(There's nothing left to bleed)"
+    },
+    {
+      "time": 139.54,
+      "endTime": 143.44,
+      "jp": [
+        {
+          "t": "(My heart can't take this anymore)"
+        }
+      ],
+      "zh": "（我的心再也承受不住了）",
+      "kuso": "(My heart can't take this anymore)",
+      "romaji": "(My heart can't take this anymore)"
+    },
+    {
+      "time": 143.44,
+      "endTime": 146.45,
+      "jp": [
+        {
+          "t": "There's nothing left to bleed"
+        }
+      ],
+      "zh": "已經沒有什麼能再流血了",
+      "kuso": "There's nothing left to bleed",
+      "romaji": "There's nothing left to bleed"
+    },
+    {
+      "time": 146.45,
+      "endTime": 149.08,
+      "jp": [
+        {
+          "t": "There's nothing left to bleed"
+        }
+      ],
+      "zh": "已經沒有什麼能再流血了",
+      "kuso": "There's nothing left to bleed",
+      "romaji": "There's nothing left to bleed"
+    },
+    {
+      "time": 149.08,
+      "endTime": 150.95,
+      "jp": [
+        {
+          "t": "There's nothing left to bleed"
+        }
+      ],
+      "zh": "已經沒有什麼能再流血了",
+      "kuso": "There's nothing left to bleed",
+      "romaji": "There's nothing left to bleed"
+    },
+    {
+      "time": 150.95,
+      "endTime": 153.51,
+      "jp": [
+        {
+          "t": "My heart can't take this anymore"
+        }
+      ],
+      "zh": "我的心再也承受不住了",
+      "kuso": "My heart can't take this anymore",
+      "romaji": "My heart can't take this anymore"
+    },
+    {
+      "time": 153.51,
+      "endTime": 155.98,
+      "jp": [
+        {
+          "t": "There's nothing left to bleed"
+        }
+      ],
+      "zh": "已經沒有什麼能再流血了",
+      "kuso": "There's nothing left to bleed",
+      "romaji": "There's nothing left to bleed"
+    },
+    {
+      "time": 155.98,
+      "endTime": 157.92,
+      "jp": [
+        {
+          "t": "There's nothing left to bleed"
+        }
+      ],
+      "zh": "已經沒有什麼能再流血了",
+      "kuso": "There's nothing left to bleed",
+      "romaji": "There's nothing left to bleed"
+    },
+    {
+      "time": 157.92,
+      "endTime": 161.33,
+      "jp": [
+        {
+          "t": "My heart can't take this anymore"
+        }
+      ],
+      "zh": "我的心再也承受不住了",
+      "kuso": "My heart can't take this anymore",
+      "romaji": "My heart can't take this anymore"
+    },
+    {
+      "time": 161.33,
+      "endTime": 165.94,
+      "jp": [
+        {
+          "t": "Hey liar, hey liar"
+        }
+      ],
+      "zh": "嘿，騙子，嘿，騙子",
+      "kuso": "Hey liar, hey liar",
+      "romaji": "Hey liar, hey liar"
+    },
+    {
+      "time": 165.94,
+      "endTime": 170.56,
+      "jp": [
+        {
+          "t": "What do you think of living without me?"
+        }
+      ],
+      "zh": "沒有我的日子，你覺得怎樣？",
+      "kuso": "What do you think of living without me?",
+      "romaji": "What do you think of living without me?"
+    },
+    {
+      "time": 170.56,
+      "endTime": 175.07,
+      "jp": [
+        {
+          "t": "ねぇLiar, Oh yeah Liar"
+        }
+      ],
+      "zh": "喂，騙子，沒錯，你就是騙子",
+      "kuso": "內~ Liar, Oh yeah Liar",
+      "romaji": "nee Liar, Oh yeah Liar"
+    },
+    {
+      "time": 175.07,
+      "endTime": 180.29,
+      "jp": [
+        {
+          "t": "とどまる"
+        },
+        {
+          "t": "事",
+          "r": "こと"
+        },
+        {
+          "t": "は"
+        },
+        {
+          "t": "無",
+          "r": "む"
+        },
+        {
+          "t": "意",
+          "r": "い"
+        },
+        {
+          "t": "味",
+          "r": "み"
+        },
+        {
+          "t": "?"
+        }
+      ],
+      "zh": "停留在原地，是毫無意義的嗎？",
+      "kuso": "斗斗媽路 扣斗哇 母伊米?",
+      "romaji": "todomaru koto wa muimi?"
+    },
+    {
+      "time": 180.29,
+      "endTime": 187.08,
+      "jp": [
+        {
+          "t": "Oh oh oh oh oh oh oh oh oh"
+        }
+      ],
+      "zh": "喔喔喔喔喔喔喔喔喔",
+      "kuso": "Oh oh oh oh oh oh oh oh oh",
+      "romaji": "Oh oh oh oh oh oh oh oh oh"
+    },
+    {
+      "time": 187.08,
+      "endTime": 194.42,
+      "jp": [
+        {
+          "t": "Oh oh oh oh oh oh oh oh oh"
+        }
+      ],
+      "zh": "喔喔喔喔喔喔喔喔喔",
+      "kuso": "Oh oh oh oh oh oh oh oh oh",
+      "romaji": "Oh oh oh oh oh oh oh oh oh"
+    },
+    {
+      "time": 194.42,
+      "endTime": 196.32,
+      "jp": [
+        {
+          "t": "Ooh yeah"
+        }
+      ],
+      "zh": "喔，是啊",
+      "kuso": "Ooh yeah",
+      "romaji": "Ooh yeah"
+    },
+    {
+      "time": 196.32,
+      "endTime": 201.32,
+      "jp": [
+        {
+          "t": "Ooh yeah"
+        }
+      ],
+      "zh": "喔，是啊",
+      "kuso": "Ooh yeah",
+      "romaji": "Ooh yeah"
+    }
+  ]
+}

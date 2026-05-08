@@ -2,32 +2,142 @@
   "version": 1,
   "albums": [
     {
-      "slug": "001-luxury-disease",
-      "title": "Luxury Disease",
-      "titleZh": "奢華病",
+      "slug": "001-zeitakubyou",
+      "title": "ゼイタクビョウ",
+      "titleZh": "奢侈病",
       "artist": "ONE OK ROCK",
-      "year": 2022,
-      "releaseDate": "2022-09-09",
-      "cover": "albums/001-luxury-disease/cover.jpg",
+      "year": 2007,
+      "releaseDate": "2007-11-21",
+      "cover": "albums/001-zeitakubyou/cover.png",
       "songs": [
         {
-          "slug": "01-save-yourself",
-          "title": "Save Yourself",
-          "titleZh": "拯救自己",
-          "youtubeId": "9ScZ7ZQ4l0Q",
-          "duration": 240,
-          "file": "albums/001-luxury-disease/songs/01-save-yourself.json"
+          "slug": "01-naihi-shinsho",
+          "title": "内秘心書",
+          "titleZh": "內秘心書",
+          "youtubeId": "DrAfWckQSus",
+          "duration": 210,
+          "file": "albums/001-zeitakubyou/songs/01-naihi-shinsho.json"
+        },
+        {
+          "slug": "05-yume-yume",
+          "title": "努努 -ゆめゆめ-",
+          "titleZh": "千萬",
+          "youtubeId": "uQmSZVSSTmI",
+          "duration": 175,
+          "file": "albums/001-zeitakubyou/songs/05-yume-yume.json"
         }
       ]
     },
     {
-      "slug": "002-eye-of-the-storm",
+      "slug": "002-beam-of-light",
+      "title": "BEAM OF LIGHT",
+      "artist": "ONE OK ROCK",
+      "year": 2008,
+      "releaseDate": "2008-05-28",
+      "cover": "albums/002-beam-of-light/cover.png",
+      "songs": []
+    },
+    {
+      "slug": "003-kanjou-effect",
+      "title": "感情エフェクト",
+      "titleZh": "感情Effect",
+      "artist": "ONE OK ROCK",
+      "year": 2008,
+      "releaseDate": "2008-11-12",
+      "cover": "albums/003-kanjou-effect/cover.png",
+      "songs": []
+    },
+    {
+      "slug": "004-niche-syndrome",
+      "title": "Nicheシンドローム",
+      "titleZh": "Niche Syndrome",
+      "artist": "ONE OK ROCK",
+      "year": 2010,
+      "releaseDate": "2010-06-09",
+      "cover": "albums/004-niche-syndrome/cover.png",
+      "songs": [
+        {
+          "slug": "03-kanzen-kankaku-dreamer",
+          "title": "完全感覚Dreamer",
+          "titleZh": "完全感覺Dreamer",
+          "youtubeId": "xGbxsiBZGPI",
+          "duration": 252,
+          "file": "albums/004-niche-syndrome/songs/03-kanzen-kankaku-dreamer.json"
+        },
+        {
+          "slug": "08-liar",
+          "title": "Liar",
+          "titleZh": "騙子",
+          "youtubeId": "SAHvDE9FFAE",
+          "duration": 200,
+          "file": "albums/004-niche-syndrome/songs/08-liar.json"
+        }
+      ]
+    },
+    {
+      "slug": "005-zankyou-reference",
+      "title": "残響リファレンス",
+      "titleZh": "殘響Reference",
+      "artist": "ONE OK ROCK",
+      "year": 2011,
+      "releaseDate": "2011-10-05",
+      "cover": "albums/005-zankyou-reference/cover.png",
+      "songs": []
+    },
+    {
+      "slug": "006-jinsei-kakete-boku-wa",
+      "title": "人生×僕=",
+      "artist": "ONE OK ROCK",
+      "year": 2013,
+      "releaseDate": "2013-03-06",
+      "cover": "albums/006-jinsei-kakete-boku-wa/cover.png",
+      "songs": []
+    },
+    {
+      "slug": "007-35xxxv",
+      "title": "35xxxv",
+      "artist": "ONE OK ROCK",
+      "year": 2015,
+      "releaseDate": "2015-02-11",
+      "cover": "albums/007-35xxxv/cover.png",
+      "songs": []
+    },
+    {
+      "slug": "008-ambitions",
+      "title": "Ambitions",
+      "artist": "ONE OK ROCK",
+      "year": 2017,
+      "releaseDate": "2017-01-11",
+      "cover": "albums/008-ambitions/cover.png",
+      "songs": []
+    },
+    {
+      "slug": "009-eye-of-the-storm",
       "title": "Eye of the Storm",
       "titleZh": "風暴之眼",
       "artist": "ONE OK ROCK",
       "year": 2019,
       "releaseDate": "2019-02-13",
-      "cover": "albums/002-eye-of-the-storm/cover.jpg",
+      "cover": "albums/009-eye-of-the-storm/cover.png",
+      "songs": []
+    },
+    {
+      "slug": "010-luxury-disease",
+      "title": "Luxury Disease",
+      "titleZh": "奢華病",
+      "artist": "ONE OK ROCK",
+      "year": 2022,
+      "releaseDate": "2022-09-09",
+      "cover": "albums/010-luxury-disease/cover.png",
+      "songs": []
+    },
+    {
+      "slug": "011-detox",
+      "title": "Detox",
+      "artist": "ONE OK ROCK",
+      "year": 2025,
+      "releaseDate": "2025-02-21",
+      "cover": "albums/011-detox/cover.png",
       "songs": []
     }
   ]
