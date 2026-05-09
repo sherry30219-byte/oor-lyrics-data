@@ -188,6 +188,24 @@
           "youtubeId": "TcLLpZBWsck",
           "duration": 226,
           "file": "albums/012-others/songs/01-kirari-fujii-kaze.json"
+        },
+        {
+          "slug": "02-kakumei-douchuu",
+          "title": "革命道中",
+          "titleZh": "革命道中",
+          "artist": "NEE",
+          "youtubeId": "ScWlFcYn_FI",
+          "duration": 195,
+          "file": "albums/012-others/songs/02-kakumei-douchuu.json"
+        },
+        {
+          "slug": "03-jane-doe",
+          "title": "JANE DOE",
+          "titleZh": "JANE DOE",
+          "artist": "米津玄師, 宇多田ヒカル",
+          "youtubeId": "E8N8CAihLT0",
+          "duration": 200,
+          "file": "albums/012-others/songs/03-jane-doe.json"
         }
       ]
     }
